@@ -1,0 +1,4 @@
+python vault.py encrypt filename.txt yourpassword
+
+python vault.py decrypt filename.txt.crx yourpassword
+
